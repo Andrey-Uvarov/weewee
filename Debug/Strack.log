@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Andrey uvarov\Strack\Strack\main.cpp(130,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\Andrey uvarov\Strack\Strack\main.cpp(143,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Strack.vcxproj -> E:\Andrey uvarov\Strack\Debug\Strack.exe
